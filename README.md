@@ -1,3 +1,2 @@
-# Restra (React Native)
-Track Restaurant
+# Restra
 React Native
